@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kmaijer/MyFirstProject/_apis/build/status/kmaijer.pipelines-java?branchName=master)](https://dev.azure.com/kmaijer/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
